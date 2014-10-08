@@ -3,6 +3,15 @@
     <div class="subpage">
         <h3>Our Services</h3>
         <p>
+            Vietnamtourism had been established since 1993 under Vietnam National Administration of Tourism as a large state owned key enterprises group integrating all inclusive services in the travel industry. For decades, it has sustained a high reputation in the Vietnam and International tourism market by continually offering quality service and developing new products, which fully demonstrates its role as a leading enterprise in Vietnam's tourism industry.
+        </p>
+        <p>
+            Vietnamtourism owns a national network with many branches offices across the whole country and setup network globally with over 39 countries, supported by many foreign and local partners working closely to provide travel service wherever people travel within Vietnam or Vietnamese people like to travel abroad. Vietnamtourism is a prestigious trademark of high value in Vietnam and is the only tourism company among the country's Top 100 Enterprises.
+        </p>
+        <p>
+            Vietnamtourism is a member of leading international travel organizations, such as Vietnam Tourism Association (VITA), Pacific Asia Travel Association (PATA), American Society of Travel Agents (ASTA), Japan Association of Travel Agents (JATA), United States Tour Operators Association (USTOA). In 2009, Vietnamtourism was separated from VNAT and became a privately owned tourism company. Taking the advantage of the parent company, relying on the professional & experienced working team, the Vietnamtourism is now running at an extraordinary high speed
+        </p>
+        <p>
             Today, Vietnamtourism is proud to be the leading total travel service specialist in Vietnam. It offers a diversified range of services that include:
         </p>
          <div class='row' id="about-list">
