@@ -1,7 +1,7 @@
 <?php include './inc/header.php'; ?> 
 <div class='main-content content'>
     <div class="subpage">
-        <h3>1. Our Services</h3>
+        <h3>Our Services</h3>
         <p>
             Today, Vietnamtourism is proud to be the leading total travel service specialist in Vietnam. It offers a diversified range of services that include:
         </p>
@@ -37,20 +37,29 @@
                     </ul>
                 </div>
             </div>
-        <h3>2. Official Websites</h3>
+        <h3>Official Websites</h3>
         <p>Vietnamtourism has four Websites for different 
             markets and business scope :
         </p>    
-        <p>Etours (<a href="http://www.etours.com.vn">www.etours.com.vn</a>)</p>  
-        <p>German - Reise in China (<a href="http://www.reiseinchina.com">www.reiseinchina.com</a>)</p>  
+        <p style="margin-bottom: 0">Etours (<a href="http://www.etours.com.vn">www.etours.com.vn</a>)</p>  
+        <p style="margin-bottom: 0">German - Reise in China (<a href="http://www.reiseinchina.com">www.reiseinchina.com</a>)</p>  
         <p>For Our Partner - B2B (www.vietnamtourism.voyage)</p>  
         <p>
             The main business scope of B2C websites include: package tours, city tours, join-in tours, private tours, MICE (Meeting, Incentive, Conference, and Exhibition), tailor-made tours, city transfers, international train ticket & hotel booking, etc.
         </p>
-        <h3>3. Our Awards </h3>
-        <p>
-            Vietnamtourism is clearly a leader in the travel industry, having received many recognitions, awards, certifications, appreciations and compliments from business partners and satisfied customers. One of the best awards was the Vietnam Top Operator Award for two consecutive years from 2012 to 2013 has made Vietnamtourism the most remarkable and reliable partner in the industry. 
-        </p>
+        <div class="row">
+            <div class="col-sm-6">
+                <br/>
+                <h3>Our Awards </h3>
+                <p>
+                    Vietnamtourism is clearly a leader in the travel industry, having received many recognitions, awards, certifications, appreciations and compliments from business partners and satisfied customers. One of the best awards was the Vietnam Top Operator Award for two consecutive years from 2012 to 2013 has made Vietnamtourism the most remarkable and reliable partner in the industry. 
+                </p>
+            </div>
+            <div class="col-sm-6">
+                <img src="images/cup2.png" alt="Vietnamtourism" class="img-responsive" />
+            </div>
+        </div>
+        
     </div>
 </div>
 <?php include './inc/footer.php'; ?> 
