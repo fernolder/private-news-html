@@ -51,7 +51,7 @@
             markets and business scope :
         </p>    
         <p style="margin-bottom: 0">Etours (<a href="http://www.etours.com.vn">www.etours.com.vn</a>)</p>  
-        <p style="margin-bottom: 0">German - Reise in China (<a href="http://www.reiseinchina.com">www.reiseinchina.com</a>)</p>  
+        <p style="margin-bottom: 0">German - Reise in Indochina (<a href="http://www.reiseinchina.com">www.reiseinchina.com</a>)</p>  
         <p>For Our Partner - B2B (www.vietnamtourism.voyage)</p>  
         <p>
             The main business scope of B2C websites include: package tours, city tours, join-in tours, private tours, MICE (Meeting, Incentive, Conference, and Exhibition), tailor-made tours, city transfers, international train ticket & hotel booking, etc.
@@ -60,7 +60,7 @@
             <div class="col-sm-6">
                 <br/>
                 <h3>Our Awards </h3>
-                <p>
+                <p style="font-weight: 600">
                     Vietnamtourism is clearly a leader in the travel industry, having received many recognitions, awards, certifications, appreciations and compliments from business partners and satisfied customers. One of the best awards was the Vietnam Top Operator Award for two consecutive years from 2012 to 2013 has made Vietnamtourism the most remarkable and reliable partner in the industry. 
                 </p>
             </div>
