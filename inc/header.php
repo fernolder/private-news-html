@@ -56,7 +56,7 @@
                             </div>
                             <div class="col-sm-7 pull-right btn-choice">
                                 <a href="" class="holiday" >Holidays</a>
-                                <a href="" class="travel-agent" >Travel Agent</a>
+                                <a href="login.php" class="travel-agent" >Travel Agent</a>
                             </div>
                         </div>
                     </div>
@@ -74,7 +74,7 @@
                             <!-- Brand and toggle get grouped for better mobile display -->
                             <div class="navbar-header">
                                 <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
-                                    <span class="sr-only">Toggle navigation</span>
+                                    <span class="sr-only">Vietnamtourism</span>
                                     <span class="icon-bar"></span>
                                     <span class="icon-bar"></span>
                                     <span class="icon-bar"></span>
@@ -86,8 +86,8 @@
                             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                                 <ul class="nav navbar-nav">
                                     <li class="active"><a href="about.php">ABOUT US</a></li>
-                                    <li><a href="tour.php">OUR PRODUCT</a></li>
-                                    <li><a href="#">TARIFF 2015</a></li>
+                                    <li><a href="service.php">OUR SERVICE</a></li>
+                                    <li><a href="#">OUR PARTNERS</a></li>
                                     <li><a href="#">CAREER</a></li>
                                     <li><a href="contact.php">CONTACT US</a></li>
                                 </ul>

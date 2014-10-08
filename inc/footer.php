@@ -19,8 +19,7 @@
                                         <li><a href="" title="" >News</a></li>
                                         <li><a href="" title="" >Promotion</a></li>
                                         <li><a href="" title="" >Webmail</a></li>
-                                        <li><a href="" title="" >Bravo Indochina</a></li>
-                                        <li><a href="" title="" >Etours</a></li>
+                                        <li><a href="http://bravoindochinatour.com"><span class="sr-only">http://bravoindochinatour.com</span></a></li>
                                     </ul> 
                                 </div>
                                 <div class='col-sm-4 line-footer'>
