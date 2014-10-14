@@ -4,7 +4,9 @@
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>Vietnamtourism</title>
+        <meta name="description" content="Vietnam Tourism.,JSC is is a fully licensed and registered Vietnam Tour Operator provider offering various Vietnam tours and Vietnam tourism service an affiliate of Vietnam National Toursm Admnistration  (VNAT) with over 10 years" />
+        <meta name="keywords" content="Vietnamtourism, Vietnam Tourism, Vietnam Tourism JSC, Vietnam Tourism HCM, Vietnam Tourism Hanoi, Vietnam Tour Company, Vietnam Tour Operator" />
+        <title>Vietnam Tourism Investment Joint Stock Company</title>
 
         <!-- Bootstrap -->
         <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -87,8 +89,8 @@
                                 <ul class="nav navbar-nav">
                                     <li class="active"><a href="about.php">ABOUT US</a></li>
                                     <li><a href="service.php">OUR SERVICE</a></li>
-                                    <li><a href="#">OUR PARTNERS</a></li>
-                                    <li><a href="#">CAREER</a></li>
+                                    <li><a href="partners.php">OUR PARTNERS</a></li>
+                                    <li><a href="careers.php">CAREER</a></li>
                                     <li><a href="contact.php">CONTACT US</a></li>
                                 </ul>
                             </div><!-- /.navbar-collapse -->
