@@ -1,8 +1,8 @@
 <?php include './inc/header.php'; ?>      
 <div class='main-content content'>
                     <div class="subpage">
-                        <div class="row">
-                            <div class="col-sm-8">
+                        <div class="row"> 
+                            <div class="col-sm-8 ">
                                 <p>
                                     Vietnamtourism had been established since 1993 under Vietnam National Administration of Tourism as a large state owned key enterprises group integrating all inclusive services in the travel industry. For decades, it has sustained a high reputation in the Vietnam and International tourism market by continually offering quality service and developing new products, which fully demonstrates its role as a leading enterprise in Vietnam's tourism industry.
                                 </p>

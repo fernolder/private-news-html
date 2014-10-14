@@ -1,5 +1,5 @@
 <?php include './inc/header.php'; ?> 
-<div class='main-content content'>
+<div class='main-content content' >
     <div class="subpage">
         <div class='row'>
             <div class='col-sm-8'>
